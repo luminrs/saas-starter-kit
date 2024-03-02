@@ -1,3 +1,5 @@
+/* ===  DISABLE SENTRY FOR DEVELOPMENT  ===
+
 import * as Sentry from '@sentry/nextjs';
 
 Sentry.init({
@@ -7,3 +9,4 @@ Sentry.init({
   ),
   debug: false,
 });
+*/
